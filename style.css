@@ -25,6 +25,7 @@ p{
 /* header */
 header{
   background:#efefef
+  display:inline-block;
 }
 
 /* main */
