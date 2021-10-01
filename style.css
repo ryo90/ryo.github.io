@@ -17,12 +17,9 @@ p{
     font-weight: normal;
     color: #000;/*文字色*/
     background: #FFF;
+    display:inline-block;
     border: solid 3px #000;/*線*/
     border-radius: 10px;/*角の丸み*/
-}
-.box1{
-  border-radius: 50px; 
-  /* 角を丸くする */
 }
 
 /* header */
