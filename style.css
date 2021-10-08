@@ -18,16 +18,16 @@ p{
     color: #000;/*文字色*/
     background: #FFF;
     border: solid 3px #000;/*線*/
-    border-radius: 10px;/*角の丸み*/
 }
 
 /* header */
 header{
   background:#efefef
   display:inline-block;
+  display:flex;
 }
 
-header .profile {
+container .profile {
   border-radius: 50%;
 }
 
