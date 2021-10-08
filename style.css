@@ -18,6 +18,7 @@ p{
     color: #000;/*文字色*/
     background: #FFF;
     border: solid 3px #000;/*線*/
+    border-radius: 20%; /*角丸*/
 }
 
 /* header */
@@ -27,8 +28,11 @@ header{
   display:flex;
 }
 
-container .profile {
-  border-radius: 50%;
+.profile{
+ width: 260px;
+    height:260px;
+    border-radius: 50%;/*角丸*/
+  object-fit:cover;
 }
 
 /* main */
