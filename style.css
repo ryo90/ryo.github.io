@@ -27,6 +27,13 @@ header{
   display:inline-block;
 }
 
+box1 {
+	width:200px;
+	height:200px;
+	object-fit:cover;
+	border-radius:50%;
+	object-position:-20px 0px;
+}
 /* main */
 main .container{
   width:400px
