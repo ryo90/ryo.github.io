@@ -28,12 +28,10 @@ header{
   display:flex;
 }
 
-.profile{
- width: 260px;
-    height:260px;
-    border-radius: 50%;/*角丸*/
-  object-fit:cover;
+.profile img {
+	border-radius: 90px;
 }
+
 
 /* main */
 main .container{
