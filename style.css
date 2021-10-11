@@ -18,7 +18,7 @@ p{
     color: #000;/*文字色*/
     background: #FFF;
     border: solid 3px #000;/*線*/
-    border-radius: 20%; /*角丸*/
+    border-radius: 10%; /*角丸*/
 }
 
 /* header */
@@ -26,6 +26,7 @@ header{
   background:#efefef
   display:inline-block;
   display:flex;
+	text-align:center;
 }
 
 .profile img {
