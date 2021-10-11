@@ -18,22 +18,18 @@ p{
     color: #000;/*文字色*/
     background: #FFF;
     border: solid 3px #000;/*線*/
-    border-radius: 10%; /*角丸*/
+    border-radius: 10px;/*角の丸み*/
 }
 
 /* header */
 header{
   background:#efefef
   display:inline-block;
-  display:flex;
-	text-align:center;
 }
 
-.profile img {
-	border-radius: 90px;
+.profile img{
+border-radius: 90px;
 }
-
-
 /* main */
 main .container{
   width:400px
